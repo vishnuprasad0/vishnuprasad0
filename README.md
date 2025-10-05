@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | IoT Enthusiast | UI Magician 🎨</h3>
 
 <p align="center">
-  <a href="https://vishnu.app.tc/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" /></a>
+  <a href="https://vishnuprasadkp.xyz/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" /></a>
 </p>
 
 ---
