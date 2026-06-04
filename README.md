@@ -12,12 +12,32 @@
 
 ### 🤹‍♂️ About Me
 
-- 🎓 Graduated & coding full-time in Flutter (✨ UI wizardry)
-- 🧠 2+ years slaying bugs & crafting smooth apps
+- 🎓 Full-stack & Flutter developer from Malappuram, Kerala
+- 🧠 3+ years shipping production mobile & IoT platforms
+- 🏢 Currently building EV-charging IoT apps at **AIZOTEQ Solutions Pvt Ltd**
 - 🌐 Fluent in **BLoC**, **MVVM**, **GetX** – pick your fighter!
-- 🔌 IoT maestro: **BLE**, **MQTT**, **OCPP**, WebSockets
+- 🔌 IoT maestro: **BLE**, **MQTT**, **OCPP**, AWS IoT Core, Geofencing
+- 🏛️ Shipped statewide platforms for Kerala Govt. & Malayala Manorama (India's #1 Malayalam media house)
 - 🦄 Passion: turning coffee ☕️ into pixel-perfect UIs
 - 🎯 Motto: "If it's not beautiful, it's not finished."
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3%2B%20Years-Production%20Code-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6%2B-Shipped%20Products-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/10k%2B-End%20Users-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 🛤️ Career Timeline
+
+| Period | Role | Org | Highlights |
+|--------|------|-----|------------|
+| Mar 2023 — Present | Flutter Developer | **AIZOTEQ Solutions Pvt Ltd** | EV-charging IoT apps · AWS IoT Core · MQTT · BLE pairing · Geofencing · live on Play Store & App Store |
+| 2023 — 2024 | Lead Full-Stack Developer | **Manorama QFactor** | Statewide real-time quiz platform · React · leaderboards · thousands of students across Kerala |
+| 2023 — 2024 | Full-Stack Developer | **Manorama NewsNinja** | Educational news platform · Django backend + Flutter client · architected & deployed solo |
+| Dec 2023 — Jan 2024 | Flutter Intern | **Vue Nice Technologies** | Mobile development across client products, clean architecture focus |
+| Apr — Sep 2023 | Flutter Intern | **Arion Infotech** | Migrated a B2B pet app to MVVM with GetX · 20% performance boost |
 
 ---
 
