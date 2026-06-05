@@ -1,107 +1,141 @@
-<h1 align="center">👋 Hey there! I'm Vishnu Prasad KP</h1>
-<h3 align="center">🚀 Flutter Developer | IoT Enthusiast | UI Magician 🎨</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://vishnuprasadkp.xyz/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-vishnuprasadkp.xyz-blueviolet?style=for-the-badge" /></a>
-  <a href="https://vishnuprasadkp.xyz/hire-flutter-developer-india" target="_blank"><img src="https://img.shields.io/badge/💼 Hire me-Flutter Developer-00c2a8?style=for-the-badge" /></a>
+# Hi, I'm Vishnu Prasad KP 👋
+
+### Flutter Developer & Full-Stack Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2A8&center=true&vCenter=true&width=560&lines=Flutter+%26+Full-Stack+Developer;3%2B+Years+Shipping+Production+Apps;EV-Charging+%2F+IoT+%2F+MQTT+%2F+AWS+IoT+Core;Building+at+AIZOTEQ+Solutions" alt="Typing SVG" />
+
+<p>
+  <a href="https://vishnuprasadkp.xyz/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-vishnuprasadkp.xyz-8A2BE2?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/vishnuprasad-kp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vishnuprasad.mukundan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vishnuprasadkp.xyz/hire-flutter-developer-india" target="_blank"><img src="https://img.shields.io/badge/💼_Available_for-Freelance_%26_Full--Time-00c2a8?style=for-the-badge" /></a>
 </p>
 
-> 🌐 **Portfolio:** https://vishnuprasadkp.xyz — Flutter & mobile app developer from Kerala, India.
+</div>
 
----
+<br/>
 
-### 🤹‍♂️ About Me
+## About Me
 
-- 🎓 Full-stack & Flutter developer from Malappuram, Kerala
-- 🧠 3+ years shipping production mobile & IoT platforms
-- 🏢 Currently building EV-charging IoT apps at **AIZOTEQ Solutions Pvt Ltd**
-- 🌐 Fluent in **BLoC**, **MVVM**, **GetX** – pick your fighter!
-- 🔌 IoT maestro: **BLE**, **MQTT**, **OCPP**, AWS IoT Core, Geofencing
-- 🏛️ Shipped statewide platforms for Kerala Govt. & Malayala Manorama (India's #1 Malayalam media house)
-- 🦄 Passion: turning coffee ☕️ into pixel-perfect UIs
-- 🎯 Motto: "If it's not beautiful, it's not finished."
+Full-stack & Flutter developer from **Malappuram, Kerala**, currently building EV-charging IoT infrastructure at **AIZOTEQ Solutions Pvt Ltd**. Before that, I built statewide quiz and news platforms for **Malayala Manorama** — Kerala's #1 media house — and shipped a government drug-prevention tip platform from scratch.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/3%2B%20Years-Production%20Code-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/6%2B-Shipped%20Products-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/10k%2B-End%20Users-orange?style=for-the-badge" />
-</p>
+My code runs on real devices in hospitals, EV stations, classrooms and government offices. I care about architecture that lasts — Clean Architecture, BLoC, typed contracts — because shortcuts always cost you later.
 
----
+<div align="center">
 
-### 🛤️ Career Timeline
+|  |  |  |
+|:---:|:---:|:---:|
+| **3+** Years production code | **6+** Shipped products | **10k+** End users reached |
 
-| Period | Role | Org | Highlights |
-|--------|------|-----|------------|
-| Mar 2023 — Present | Flutter Developer | **AIZOTEQ Solutions Pvt Ltd** | EV-charging IoT apps · AWS IoT Core · MQTT · BLE pairing · Geofencing · live on Play Store & App Store |
-| 2023 — 2024 | Lead Full-Stack Developer | **Manorama QFactor** | Statewide real-time quiz platform · React · leaderboards · thousands of students across Kerala |
-| 2023 — 2024 | Full-Stack Developer | **Manorama NewsNinja** | Educational news platform · Django backend + Flutter client · architected & deployed solo |
-| Dec 2023 — Jan 2024 | Flutter Intern | **Vue Nice Technologies** | Mobile development across client products, clean architecture focus |
-| Apr — Sep 2023 | Flutter Intern | **Arion Infotech** | Migrated a B2B pet app to MVVM with GetX · 20% performance boost |
+</div>
 
----
+- 🔭 Currently building **EV-charging IoT apps** at AIZOTEQ Solutions
+- 🌐 Full-stack: Flutter mobile clients + Django / Node backends
+- 🔌 IoT: BLE, MQTT, OCPP 1.6/2.0, AWS IoT Core, geofencing
+- 🏛️ Shipped statewide platforms for **Kerala Govt.** & **Malayala Manorama**
+- 🛡️ Certified Cyber Security Analyst
+- 📍 Malappuram, Kerala · Remote-friendly worldwide
 
-### 📲 My Digital Babies
+<br/>
 
-| App | Platform | My Superpowers | Status |
-|-----|----------|----------------|--------|
-| 🔌 [**Aizo Plug**](https://play.google.com/store/search?q=aizo%20plug&c=apps) | Android & iOS | OCPP ⚡️, MQTT 🛰, Bluetooth 🔵, Maps 🗺️, IoT magic | ✨ Live & rocking |
-| 🏠 [**Aizo Home**](https://play.google.com/store/apps/details?id=com.aizoteq.aizohome) | Android & iOS | UI sparkle 💎, API integration 🔗, local caching 📦 | 🚀 Shipped with ❤️ |
-| 🧑‍💼 [**Aizo Host**](https://play.google.com/store/apps/details?id=com.aizoteq.aizohost) | Android & iOS | Station management 📊, Live stats 📈, QR & RFID ⚙️ | ✅ Live |
-| 🎙️ [**SKV Rockies**](https://play.google.com/store/apps/details?id=com.skv.rockies) | Android | Radio streaming 📻, Offline cache 🗃️, Dynamic playlists 🎶 | 🎉 Students love it |
+## Tech Stack
 
-> 🔧 **Aizo Plug (EV Charging App) Deep Dive** → [read the full case study](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
-> - ⚡️ **Quick Charge**: Scan QR, start charging in seconds
-> - 📍 **Map View**: See nearby stations with custom pins
-> - 🔄 **Real-Time Updates**: Live status via MQTT & WebSockets
-> - 🔵 **Bluetooth Pairing**: Connect charger to your phone
-> - 🔋 **Session Stats**: Track kWh, time, cost in one screen
-> - 💳 **Easy Payments**: Pay with QR code & Razorpay
+**Mobile & Frontend**
 
----
-
-### 📚 Case Studies & Services
-
-- 🔌 [EV Charging App — AIZOTEQ (IoT, MQTT, OCPP)](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
-- 🏆 [Manorama QFactor — statewide real-time quiz platform](https://vishnuprasadkp.xyz/work/manorama-qfactor)
-- 📰 [Manorama NewsNinja — Django + Flutter platform](https://vishnuprasadkp.xyz/work/manorama-newsninja)
-- 🎙️ [School Radio — Flutter + Firebase audio app](https://vishnuprasadkp.xyz/work/school-radio-app)
-- 💼 Hire me: [Flutter App Developer](https://vishnuprasadkp.xyz/flutter-app-developer) · [IoT Mobile App Developer](https://vishnuprasadkp.xyz/iot-app-developer) · [Hire a Flutter Developer in India](https://vishnuprasadkp.xyz/hire-flutter-developer-india)
-
----
-
-### 🧠 My Toolkit & Badges
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-MVVM-GetX-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MQTT-RealTime-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bluetooth-Connectivity-blue?style=for-the-badge&logo=bluetooth" />
-  <img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-VersionControl-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/BLoC-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GetX-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge" />
 </p>
 
-> 💫 **Fun Fact:** My GitHub commits are like potato chips—can't stop at just one!
+**Backend & APIs**
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuprasad0&theme=midnight-purple&hide_border=false" alt="🔥 Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad0&layout=compact&theme=radical&hide_border=true" alt="📚 Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-> ☕️ "Debugging: Removing the needles from the haystack."
+**Cloud, IoT & Real-Time**
 
----
+<p>
+  <img src="https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCPP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Geofencing-4CAF50?style=for-the-badge" />
+</p>
 
-### 📫 Connect
+**Databases & Tools**
 
-- 🌐 Portfolio: https://vishnuprasadkp.xyz
-- 💼 LinkedIn: https://linkedin.com/in/vishnuprasad-kp
-- 📍 Malappuram, Kerala, India · Remote-friendly worldwide
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<!-- Created with ❤️ by Vishnu -->
+<br/>
+
+## 📲 Live Products
+
+| App | Platform | Highlights | Status |
+|-----|----------|------------|--------|
+| 🔌 [**Aizo Plug**](https://play.google.com/store/search?q=aizo%20plug&c=apps) | Android & iOS | OCPP ⚡️, MQTT 🛰, Bluetooth 🔵, Maps 🗺️, IoT | ✨ Live |
+| 🏠 [**Aizo Home**](https://play.google.com/store/apps/details?id=com.aizoteq.aizohome) | Android & iOS | UI polish 💎, API integration 🔗, local caching 📦 | 🚀 Live |
+| 🧑‍💼 [**Aizo Host**](https://play.google.com/store/apps/details?id=com.aizoteq.aizohost) | Android & iOS | Station management 📊, live stats 📈, QR & RFID ⚙️ | ✅ Live |
+| 🎙️ [**SKV Rockies**](https://play.google.com/store/apps/details?id=com.skv.rockies) | Android | Radio streaming 📻, offline cache 🗃️, dynamic playlists 🎶 | 🎉 Live |
+
+> **Aizo Plug (EV Charging App) — Deep Dive** → [read the full case study](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
+> - ⚡ **Quick Charge** — scan QR, start charging in seconds
+> - 📍 **Map View** — nearby stations with custom pins
+> - 🔄 **Real-Time Updates** — live status via MQTT & WebSockets
+> - 🔵 **Bluetooth Pairing** — connect charger to phone
+> - 🔋 **Session Stats** — track kWh, time, cost in one screen
+> - 💳 **Easy Payments** — QR code & Razorpay
+
+<br/>
+
+## 📚 Selected Work & Case Studies
+
+- 🔌 [**EV Charging App** — AIZOTEQ (IoT, MQTT, OCPP)](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
+- 🏆 [**Manorama QFactor** — statewide real-time quiz platform, thousands of students, React + leaderboards](https://vishnuprasadkp.xyz/work/manorama-qfactor)
+- 📰 [**Manorama NewsNinja** — educational news platform, Django + Flutter, architected & deployed solo](https://vishnuprasadkp.xyz/work/manorama-newsninja)
+- 🎙️ [**School Radio App** — audio streaming for schools, Flutter + Firebase, live on Play Store](https://vishnuprasadkp.xyz/work/school-radio-app)
+
+**Hire me:** [Flutter App Developer](https://vishnuprasadkp.xyz/flutter-app-developer) · [IoT Mobile App Developer](https://vishnuprasadkp.xyz/iot-app-developer) · [Hire a Flutter Developer in India](https://vishnuprasadkp.xyz/hire-flutter-developer-india)
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuprasad0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuprasad0&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuprasad0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 📫 Connect
+
+<p>
+  <a href="https://vishnuprasadkp.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vishnuprasadkp.xyz-8A2BE2?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/vishnuprasad-kp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vishnuprasad--kp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vishnuprasad.mukundan@gmail.com"><img src="https://img.shields.io/badge/Email-vishnuprasad.mukundan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+📍 Malappuram, Kerala, India · Remote-friendly worldwide
+
+<sub>Designed & built by Vishnu Prasad KP</sub>
