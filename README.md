@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2A8&center=true&vCenter=true&width=560&lines=Flutter+%26+Full-Stack+Developer;3%2B+Years+Shipping+Production+Apps;EV-Charging+%2F+IoT+%2F+MQTT+%2F+AWS+IoT+Core;Building+at+AIZOTEQ+Solutions" alt="Typing SVG" />
 
 <p>
-  <a href="https://vishnuprasadkp.xyz/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-vishnuprasadkp.xyz-8A2BE2?style=for-the-badge" /></a>
+  <a href="https://vishnuprasadkp.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-vishnuprasadkp.com-8A2BE2?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/vishnuprasad-kp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishnuprasad.mukundan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://vishnuprasadkp.xyz/hire-flutter-developer-india" target="_blank"><img src="https://img.shields.io/badge/💼_Available_for-Freelance_%26_Full--Time-00c2a8?style=for-the-badge" /></a>
+  <a href="https://vishnuprasadkp.com/hire-flutter-developer-india" target="_blank"><img src="https://img.shields.io/badge/💼_Available_for-Freelance_%26_Full--Time-00c2a8?style=for-the-badge" /></a>
 </p>
 
 </div>
@@ -94,7 +94,7 @@ My code runs on real devices in hospitals, EV stations, classrooms and governmen
 | 🧑‍💼 [**Aizo Host**](https://play.google.com/store/apps/details?id=com.aizoteq.aizohost) | Android & iOS | Station management 📊, live stats 📈, QR & RFID ⚙️ | ✅ Live |
 | 🎙️ [**SKV Rockies**](https://play.google.com/store/apps/details?id=com.skv.rockies) | Android | Radio streaming 📻, offline cache 🗃️, dynamic playlists 🎶 | 🎉 Live |
 
-> **Aizo Plug (EV Charging App) — Deep Dive** → [read the full case study](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
+> **Aizo Plug (EV Charging App) — Deep Dive** → [read the full case study](https://vishnuprasadkp.com/work/ev-charging-app-aizoteq)
 > - ⚡ **Quick Charge** — scan QR, start charging in seconds
 > - 📍 **Map View** — nearby stations with custom pins
 > - 🔄 **Real-Time Updates** — live status via MQTT & WebSockets
@@ -106,12 +106,12 @@ My code runs on real devices in hospitals, EV stations, classrooms and governmen
 
 ## 📚 Selected Work & Case Studies
 
-- 🔌 [**EV Charging App** — AIZOTEQ (IoT, MQTT, OCPP)](https://vishnuprasadkp.xyz/work/ev-charging-app-aizoteq)
-- 🏆 [**Manorama QFactor** — statewide real-time quiz platform, thousands of students, React + leaderboards](https://vishnuprasadkp.xyz/work/manorama-qfactor)
-- 📰 [**Manorama NewsNinja** — educational news platform, Django + Flutter, architected & deployed solo](https://vishnuprasadkp.xyz/work/manorama-newsninja)
-- 🎙️ [**School Radio App** — audio streaming for schools, Flutter + Firebase, live on Play Store](https://vishnuprasadkp.xyz/work/school-radio-app)
+- 🔌 [**EV Charging App** — AIZOTEQ (IoT, MQTT, OCPP)](https://vishnuprasadkp.com/work/ev-charging-app-aizoteq)
+- 🏆 [**Manorama QFactor** — statewide real-time quiz platform, thousands of students, React + leaderboards](https://vishnuprasadkp.com/work/manorama-qfactor)
+- 📰 [**Manorama NewsNinja** — educational news platform, Django + Flutter, architected & deployed solo](https://vishnuprasadkp.com/work/manorama-newsninja)
+- 🎙️ [**School Radio App** — audio streaming for schools, Flutter + Firebase, live on Play Store](https://vishnuprasadkp.com/work/school-radio-app)
 
-**Hire me:** [Flutter App Developer](https://vishnuprasadkp.xyz/flutter-app-developer) · [IoT Mobile App Developer](https://vishnuprasadkp.xyz/iot-app-developer) · [Hire a Flutter Developer in India](https://vishnuprasadkp.xyz/hire-flutter-developer-india)
+**Hire me:** [Flutter App Developer](https://vishnuprasadkp.com/flutter-app-developer) · [IoT Mobile App Developer](https://vishnuprasadkp.com/iot-app-developer) · [Hire a Flutter Developer in India](https://vishnuprasadkp.com/hire-flutter-developer-india)
 
 <br/>
 
@@ -131,7 +131,7 @@ My code runs on real devices in hospitals, EV stations, classrooms and governmen
 ## 📫 Connect
 
 <p>
-  <a href="https://vishnuprasadkp.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vishnuprasadkp.xyz-8A2BE2?style=flat-square" /></a>
+  <a href="https://vishnuprasadkp.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vishnuprasadkp.com-8A2BE2?style=flat-square" /></a>
   <a href="https://linkedin.com/in/vishnuprasad-kp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vishnuprasad--kp-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vishnuprasad.mukundan@gmail.com"><img src="https://img.shields.io/badge/Email-vishnuprasad.mukundan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
