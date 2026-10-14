@@ -85,6 +85,15 @@ My code runs on real devices in hospitals, EV stations, classrooms and governmen
 
 <br/>
 
+## 📦 Open-Source Packages
+
+| Package | What it does | pub.dev |
+|---------|--------------|---------|
+| 🛰️ [**aws_iot_core**](https://github.com/vishnuprasad0/aws_iot_core) | AWS IoT Core MQTT client for Dart & Flutter: SigV4 WebSockets with Cognito credentials, re-signing on every reconnect, wildcard topics, Device Shadow. [Guide →](https://vishnuprasadkp.com/blog/flutter-aws-iot-core-cognito) | [![pub](https://img.shields.io/pub/v/aws_iot_core.svg)](https://pub.dev/packages/aws_iot_core) [![points](https://img.shields.io/pub/points/aws_iot_core)](https://pub.dev/packages/aws_iot_core/score) [![likes](https://img.shields.io/pub/likes/aws_iot_core)](https://pub.dev/packages/aws_iot_core/score) |
+| 📸 [**screenshot_kit**](https://github.com/vishnuprasad0/screenshot_kit) | Capture widgets, off-screen widgets, whole scroll views and the full screen (Google Maps, web views) as PNG or JPEG. Drop-in successor to `screenshot`. [Guide →](https://vishnuprasadkp.com/blog/flutter-screenshot-kit-capture-widgets-long-lists-maps) | [![pub](https://img.shields.io/pub/v/screenshot_kit.svg)](https://pub.dev/packages/screenshot_kit) [![points](https://img.shields.io/pub/points/screenshot_kit)](https://pub.dev/packages/screenshot_kit/score) [![likes](https://img.shields.io/pub/likes/screenshot_kit)](https://pub.dev/packages/screenshot_kit/score) |
+
+<br/>
+
 ## 📲 Live Products
 
 | App | Platform | Highlights | Status |
